@@ -1,0 +1,4 @@
+pandas 
+yfinance==0.1.70 
+quantstats 
+request_cache

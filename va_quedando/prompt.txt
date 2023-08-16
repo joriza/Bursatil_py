@@ -1,0 +1,85 @@
+prompt
+
+- muestra un resumen de 1000 palabras.
+- sin renglón en blanco entra párrafos.
+- Muestra el tiempo del video luego del mencionar el titulo.
+
+- muestra un resumen del capitulo en lenguaje español.
+- Muestra el tiempo del video luego del mencionar el titulo original del video
+- detalla los pasos que realiza el interlocutor como si fueran leidos por alguien que quiere completar este capitulo como si fuera solo un capitulo de un guia más amplia.
+
+
+
+- muestra un resumen del capitulo en lenguaje español.
+- Muestra el tiempo del video luego del mencionar el titulo original del video
+- detalla los pasos que realiza el interlocutor como si fueran incicados para alguien que quiere completar este capitulo como si fuera solo un capitulo de un guia más amplia.
+- en el texto detalla los nombres de todas las entidades invoculucradas, como clases, metodos, interfaces, nombres de archivos y carpetas.
+- como final del resumen menciona las definiciones de los conceptos mencionados en el capitulo.
+
+
+
+- redacta un resumen en español.
+- que sea del 25% del volumen del texto original.
+
+- detalla las clases utilizadas.
+- y por cada clase, sus de sus metodos, sus propiedades y sus varialbles utilizados
+- detalla los archivos y carpetas utilizadas
+- detalla las seccions de visual studio utilizadas
+
+
+
+
+- redacta un resumen del capitulo en lenguaje español. 
+- El texto debe estar en tercera persona del singular del presente de indicativo
+- debe ser muy explicito, con mucho detalle poque es para construir un manual de instrucciones
+- Muestra el titulo original del capitulo
+
+- redacta con mucho detalle, todos los pasos realizados en el texto, explicando el por que de cada paso.
+- El texto se debe redactar en tercera persona del singular del presente de indicativo
+
+- detalla las clases utilizadas.
+- y por cada clase, sus de sus metodos, sus propiedades y sus varialbles utilizados
+- detalla los archivos y carpetas utilizadas
+- detalla las secciones de visual studio utilizadas
+- detalla los paquetes nuggets utilizados
+
+- Menciona y define cada uno de los conceptos expresados en este capítulo
+
+
+
+
+- redacta con muchísimo detalle, todos los pasos realizados en el texto
+- El texto se debe redactar en tercera persona del singular del presente de indicativo
+-Si aparece algun concepto que no está en los capitulos anteriores, esos puntos deben contener aún mas detalle que los otros puntos.
+- al final del resumen enumera y define los conceptos nuevos del capitulo
+
+
+
+
+- redacta un resumen del capitulo en lenguaje español. 
+- El texto debe estar en tercera persona del singular del presente de indicativo
+- debe ser muy explicito, con mucho detalle expresado como un docente con pasión por la enseñanza.
+- Muestra el titulo original del capitulo
+
+
+### Oka hasta ahora, aunque falta pulir
+
+- redacta ur resumen en lenguaje español neutro, con muchísimo detalle.
+- la redacción debe estar en tercera persona del singular del presente de indicativo
+- la redaccion debe ser en forma pedagógica como si fuera una guia paso a paso de cada uno de los puntos explicados en el texto.
+- Los concepto nuevos que introduce este capítulo deben contener aún mas detalle que los otros puntos.
+- finaliza el resumen enumerando y definiendo los conceptos que trata el capitulo. Destacando los conceptos nuevos que introduce el capitulo.
+
+
+- luego:
+- detalla las clases e interfaces utilizadas.
+- y por cada clase, sus de sus metodos, sus propiedades y sus varialbles utilizados
+- detalla los archivos y carpetas utilizadas
+- detalla las secciones de visual studio utilizadas
+- detalla los paquetes nuggets utilizados
+
+- debe incluir ejemplo del código para los conceptos nuevos.
+
+
+
+

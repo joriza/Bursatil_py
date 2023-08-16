@@ -1,0 +1,2629 @@
+2023-05-25 19:11:09,551 Procesando ticker AAL
+2023-05-25 19:12:52,393 Procesando ticker AAL
+=== Actualización de cotizaciones ===
+Fecha y hora: 2023-05-25 20:04:20
+
+=== Actualización de cotizaciones ===
+Fecha y hora: 2023-05-25 20:05:34
+
+=== Actualización de cotizaciones ===
+Fecha y hora: 2023-05-25 20:06:49
+
+Ticker procesado: AAL
+Progreso: 0.55%
+
+Ticker procesado: AAON
+Progreso: 1.10%
+
+Ticker procesado: AAPL
+Progreso: 1.65%
+
+Ticker procesado: ABBV
+Progreso: 2.20%
+
+Ticker procesado: ABC
+Progreso: 2.75%
+
+Ticker procesado: ABEV
+Progreso: 3.30%
+
+Ticker procesado: ABNB
+Progreso: 3.85%
+
+Ticker procesado: ACN
+Progreso: 4.40%
+
+Ticker procesado: AEM
+Progreso: 4.95%
+
+Ticker procesado: AI
+Progreso: 5.49%
+
+Ticker procesado: AKAM
+Progreso: 6.04%
+
+Ticker procesado: ALB
+Progreso: 6.59%
+
+Ticker procesado: ALC
+Progreso: 7.14%
+
+Ticker procesado: AMAT
+Progreso: 7.69%
+
+Ticker procesado: AMD
+Progreso: 8.24%
+
+Ticker procesado: AMGN
+Progreso: 8.79%
+
+Ticker procesado: AMX
+Progreso: 9.34%
+
+Ticker procesado: AMZN
+Progreso: 9.89%
+
+Ticker procesado: ARES
+Progreso: 10.44%
+
+Ticker procesado: ARKK
+Progreso: 10.99%
+
+Ticker procesado: ASML
+Progreso: 11.54%
+
+Ticker procesado: AVGO
+Progreso: 12.09%
+
+Ticker procesado: AXP
+Progreso: 12.64%
+
+Ticker procesado: BABA
+Progreso: 13.19%
+
+Ticker procesado: BAC
+Progreso: 13.74%
+
+Ticker procesado: BB
+Progreso: 14.29%
+
+Ticker procesado: BHP
+Progreso: 14.84%
+
+Ticker procesado: BIDU
+Progreso: 15.38%
+
+Ticker procesado: BIO
+Progreso: 15.93%
+
+Ticker procesado: BKNG
+Progreso: 16.48%
+
+Ticker procesado: BLDR
+Progreso: 17.03%
+
+Ticker procesado: BMY
+Progreso: 17.58%
+
+Ticker procesado: BP
+Progreso: 18.13%
+
+Ticker procesado: BSY
+Progreso: 18.68%
+
+Ticker procesado: BYD
+Progreso: 19.23%
+
+Ticker procesado: CCEP
+Progreso: 19.78%
+
+Ticker procesado: CEPU
+Progreso: 20.33%
+
+Ticker procesado: CINF
+Progreso: 20.88%
+
+Ticker procesado: CLX
+Progreso: 21.43%
+
+=== Actualización de cotizaciones ===
+Fecha y hora: 2023-05-25 20:07:24
+
+Ticker procesado: AAL
+Progreso: 0.55%
+
+Ticker procesado: AAON
+Progreso: 1.10%
+
+Ticker procesado: AAPL
+Progreso: 1.65%
+
+Ticker procesado: ABBV
+Progreso: 2.20%
+
+Ticker procesado: ABC
+Progreso: 2.75%
+
+Ticker procesado: ABEV
+Progreso: 3.30%
+
+Ticker procesado: ABNB
+Progreso: 3.85%
+
+Ticker procesado: ACN
+Progreso: 4.40%
+
+Ticker procesado: AEM
+Progreso: 4.95%
+
+Ticker procesado: AI
+Progreso: 5.49%
+
+Ticker procesado: AKAM
+Progreso: 6.04%
+
+Ticker procesado: ALB
+Progreso: 6.59%
+
+Ticker procesado: ALC
+Progreso: 7.14%
+
+Ticker procesado: AMAT
+Progreso: 7.69%
+
+Ticker procesado: AMD
+Progreso: 8.24%
+
+Ticker procesado: AMGN
+Progreso: 8.79%
+
+Ticker procesado: AMX
+Progreso: 9.34%
+
+Ticker procesado: AMZN
+Progreso: 9.89%
+
+Ticker procesado: ARES
+Progreso: 10.44%
+
+Ticker procesado: ARKK
+Progreso: 10.99%
+
+Ticker procesado: ASML
+Progreso: 11.54%
+
+Ticker procesado: AVGO
+Progreso: 12.09%
+
+Ticker procesado: AXP
+Progreso: 12.64%
+
+Ticker procesado: BABA
+Progreso: 13.19%
+
+Ticker procesado: BAC
+Progreso: 13.74%
+
+Ticker procesado: BB
+Progreso: 14.29%
+
+Ticker procesado: BHP
+Progreso: 14.84%
+
+Ticker procesado: BIDU
+Progreso: 15.38%
+
+Ticker procesado: BIO
+Progreso: 15.93%
+
+Ticker procesado: BKNG
+Progreso: 16.48%
+
+Ticker procesado: BLDR
+Progreso: 17.03%
+
+Ticker procesado: BMY
+Progreso: 17.58%
+
+Ticker procesado: BP
+Progreso: 18.13%
+
+Ticker procesado: BSY
+Progreso: 18.68%
+
+Ticker procesado: BYD
+Progreso: 19.23%
+
+Ticker procesado: CCEP
+Progreso: 19.78%
+
+Ticker procesado: CEPU
+Progreso: 20.33%
+
+Ticker procesado: CINF
+Progreso: 20.88%
+
+Ticker procesado: CLX
+Progreso: 21.43%
+
+Ticker procesado: CMA
+Progreso: 21.98%
+
+Ticker procesado: CME
+Progreso: 22.53%
+
+Ticker procesado: COST
+Progreso: 23.08%
+
+Ticker procesado: CRM
+Progreso: 23.63%
+
+Ticker procesado: CSCO
+Progreso: 24.18%
+
+Ticker procesado: CVNA
+Progreso: 24.73%
+
+Ticker procesado: CVX
+Progreso: 25.27%
+
+Ticker procesado: DD
+Progreso: 25.82%
+
+Ticker procesado: DIA
+Progreso: 26.37%
+
+Ticker procesado: DIS
+Progreso: 26.92%
+
+Ticker procesado: DKS
+Progreso: 27.47%
+
+Ticker procesado: DOX
+Progreso: 28.02%
+
+Ticker procesado: DRI
+Progreso: 28.57%
+
+Ticker procesado: DXCM
+Progreso: 29.12%
+
+Ticker procesado: EC
+Progreso: 29.67%
+
+Ticker procesado: EGO
+Progreso: 30.22%
+
+Ticker procesado: EPD
+Progreso: 30.77%
+
+Ticker procesado: ERJ
+Progreso: 31.32%
+
+Ticker procesado: ETNB
+Progreso: 31.87%
+
+Ticker procesado: ETSY
+Progreso: 32.42%
+
+Ticker procesado: EWZ
+Progreso: 32.97%
+
+Ticker procesado: F
+Progreso: 33.52%
+
+Ticker procesado: FILL
+Progreso: 34.07%
+
+Ticker procesado: FSLR
+Progreso: 34.62%
+
+Ticker procesado: FSLY
+Progreso: 35.16%
+
+Ticker procesado: GDX
+Progreso: 35.71%
+
+Ticker procesado: GE
+Progreso: 36.26%
+
+Ticker procesado: GGAL
+Progreso: 36.81%
+
+Ticker procesado: GIB
+Progreso: 37.36%
+
+Ticker procesado: GLD
+Progreso: 37.91%
+
+Ticker procesado: GM
+Progreso: 38.46%
+
+Ticker procesado: GOOGL
+Progreso: 39.01%
+
+Ticker procesado: GPK
+Progreso: 39.56%
+
+Ticker procesado: HD
+Progreso: 40.11%
+
+Ticker procesado: HMC
+Progreso: 40.66%
+
+Ticker procesado: HSY
+Progreso: 41.21%
+
+Ticker procesado: IBM
+Progreso: 41.76%
+
+Ticker procesado: IMGN
+Progreso: 42.31%
+
+Ticker procesado: INTC
+Progreso: 42.86%
+
+Ticker procesado: IOT
+Progreso: 43.41%
+
+Ticker procesado: IT
+Progreso: 43.96%
+
+Ticker procesado: JBL
+Progreso: 44.51%
+
+Ticker procesado: JD
+Progreso: 45.05%
+
+Ticker procesado: K
+Progreso: 45.60%
+
+Ticker procesado: KBR
+Progreso: 46.15%
+
+Ticker procesado: KLAC
+Progreso: 46.70%
+
+Ticker procesado: KO
+Progreso: 47.25%
+
+Ticker procesado: LABU
+Progreso: 47.80%
+
+Ticker procesado: LFUS
+Progreso: 48.35%
+
+Ticker procesado: LIN
+Progreso: 48.90%
+
+Ticker procesado: LIN
+Progreso: 49.45%
+
+Ticker procesado: LLY
+Progreso: 50.00%
+
+Ticker procesado: LMT
+Progreso: 50.55%
+
+Ticker procesado: LNW
+Progreso: 51.10%
+
+Ticker procesado: LRCX
+Progreso: 51.65%
+
+Ticker procesado: LTHM
+Progreso: 52.20%
+
+Ticker procesado: MCD
+Progreso: 52.75%
+
+Ticker procesado: MELI
+Progreso: 53.30%
+
+Ticker procesado: META
+Progreso: 53.85%
+
+Ticker procesado: MO
+Progreso: 54.40%
+
+Ticker procesado: MOS
+Progreso: 54.95%
+
+Ticker procesado: MRK
+Progreso: 55.49%
+
+Ticker procesado: MSFT
+Progreso: 56.04%
+
+Ticker procesado: MSI
+Progreso: 56.59%
+
+Ticker procesado: MSTR
+Progreso: 57.14%
+
+Ticker procesado: MU
+Progreso: 57.69%
+
+Ticker procesado: NFLX
+Progreso: 58.24%
+
+Ticker procesado: NGG
+Progreso: 58.79%
+
+Ticker procesado: NIO
+Progreso: 59.34%
+
+Ticker procesado: NKE
+Progreso: 59.89%
+
+Ticker procesado: NOK
+Progreso: 60.44%
+
+Ticker procesado: NOW
+Progreso: 60.99%
+
+Ticker procesado: NSC
+Progreso: 61.54%
+
+Ticker procesado: NU
+Progreso: 62.09%
+
+Ticker procesado: NVDA
+Progreso: 62.64%
+
+Ticker procesado: ON
+Progreso: 63.19%
+
+Ticker procesado: ORAN
+Progreso: 63.74%
+
+Ticker procesado: OXY
+Progreso: 64.29%
+
+Ticker procesado: PAM
+Progreso: 64.84%
+
+Ticker procesado: PBR
+Progreso: 65.38%
+
+Ticker procesado: PEP
+Progreso: 65.93%
+
+Ticker procesado: PFE
+Progreso: 66.48%
+
+Ticker procesado: PG
+Progreso: 67.03%
+
+Ticker procesado: PHG
+Progreso: 67.58%
+
+Ticker procesado: PKX
+Progreso: 68.13%
+
+Ticker procesado: PLTR
+Progreso: 68.68%
+
+Ticker procesado: PWR
+Progreso: 69.23%
+
+Ticker procesado: PWR
+Progreso: 69.78%
+
+Ticker procesado: PYPL
+Progreso: 70.33%
+
+Ticker procesado: QCOM
+Progreso: 70.88%
+
+Ticker procesado: QQQ
+Progreso: 71.43%
+
+Ticker procesado: RACE
+Progreso: 71.98%
+
+Ticker procesado: RIO
+Progreso: 72.53%
+
+Ticker procesado: ROKU
+Progreso: 73.08%
+
+Ticker procesado: ROL
+Progreso: 73.63%
+
+Ticker procesado: RTX
+Progreso: 74.18%
+
+Ticker procesado: SBUX
+Progreso: 74.73%
+
+Ticker procesado: SE
+Progreso: 75.27%
+
+Ticker procesado: SHOP
+Progreso: 75.82%
+
+Ticker procesado: SMCI
+Progreso: 76.37%
+
+Ticker procesado: SNA
+Progreso: 76.92%
+
+Ticker procesado: SNAP
+Progreso: 77.47%
+
+Ticker procesado: SNPS
+Progreso: 78.02%
+
+Ticker procesado: SOFI
+Progreso: 78.57%
+
+Ticker procesado: SOUN
+Progreso: 79.12%
+
+Ticker procesado: SPOT
+Progreso: 79.67%
+
+Ticker procesado: SPY
+Progreso: 80.22%
+
+Ticker procesado: SQM
+Progreso: 80.77%
+
+Ticker procesado: SXI
+Progreso: 81.32%
+
+Ticker procesado: T
+Progreso: 81.87%
+
+Ticker procesado: TECH
+Progreso: 82.42%
+
+Ticker procesado: TEF
+Progreso: 82.97%
+
+Ticker procesado: TGLS
+Progreso: 83.52%
+
+Ticker procesado: THC
+Progreso: 84.07%
+
+Ticker procesado: TM
+Progreso: 84.62%
+
+Ticker procesado: TMDX
+Progreso: 85.16%
+
+Ticker procesado: TME
+Progreso: 85.71%
+
+Ticker procesado: TMO
+Progreso: 86.26%
+
+Ticker procesado: TPL
+Progreso: 86.81%
+
+Ticker procesado: TRI
+Progreso: 87.36%
+
+Ticker procesado: TS
+Progreso: 87.91%
+
+Ticker procesado: TSLA
+Progreso: 88.46%
+
+Ticker procesado: TSM
+Progreso: 89.01%
+
+Ticker procesado: TXN
+Progreso: 89.56%
+
+Ticker procesado: UL
+Progreso: 90.11%
+
+Ticker procesado: UNP
+Progreso: 90.66%
+
+Ticker procesado: USB
+Progreso: 91.21%
+
+Ticker procesado: VIS
+Progreso: 91.76%
+
+Ticker procesado: VIST
+Progreso: 92.31%
+
+Ticker procesado: VRSK
+Progreso: 92.86%
+
+Ticker procesado: VRSK
+Progreso: 93.41%
+
+Ticker procesado: VZ
+Progreso: 93.96%
+
+Ticker procesado: WBA
+Progreso: 94.51%
+
+Ticker procesado: WEC
+Progreso: 95.05%
+
+Ticker procesado: WMT
+Progreso: 95.60%
+
+Ticker procesado: WTI
+Progreso: 96.15%
+
+Ticker procesado: XLE
+Progreso: 96.70%
+
+Ticker procesado: XLRE
+Progreso: 97.25%
+
+Ticker procesado: XOM
+Progreso: 97.80%
+
+Ticker procesado: XRAY
+Progreso: 98.35%
+
+Ticker procesado: YPF
+Progreso: 98.90%
+
+Ticker procesado: ZBH
+Progreso: 99.45%
+
+Ticker procesado: ZM
+Progreso: 100.00%
+
+=== Actualización de cotizaciones ===
+Fecha y hora: 2023-05-25 20:10:17
+
+Ticker procesado: AAL
+Progreso: 0.55%
+
+Ticker procesado: AAON
+Progreso: 1.10%
+
+Ticker procesado: AAPL
+Progreso: 1.65%
+
+Ticker procesado: ABBV
+Progreso: 2.20%
+
+Ticker procesado: ABC
+Progreso: 2.75%
+
+Ticker procesado: ABEV
+Progreso: 3.30%
+
+Ticker procesado: ABNB
+Progreso: 3.85%
+
+Ticker procesado: ACN
+Progreso: 4.40%
+
+Ticker procesado: AEM
+Progreso: 4.95%
+
+Ticker procesado: AI
+Progreso: 5.49%
+
+Ticker procesado: AKAM
+Progreso: 6.04%
+
+Ticker procesado: ALB
+Progreso: 6.59%
+
+Ticker procesado: ALC
+Progreso: 7.14%
+
+Ticker procesado: AMAT
+Progreso: 7.69%
+
+Ticker procesado: AMD
+Progreso: 8.24%
+
+Ticker procesado: AMGN
+Progreso: 8.79%
+
+Ticker procesado: AMX
+Progreso: 9.34%
+
+Ticker procesado: AMZN
+Progreso: 9.89%
+
+Ticker procesado: ARES
+Progreso: 10.44%
+
+Ticker procesado: ARKK
+Progreso: 10.99%
+
+Ticker procesado: ASML
+Progreso: 11.54%
+
+Ticker procesado: AVGO
+Progreso: 12.09%
+
+Ticker procesado: AXP
+Progreso: 12.64%
+
+Ticker procesado: BABA
+Progreso: 13.19%
+
+Ticker procesado: BAC
+Progreso: 13.74%
+
+Ticker procesado: BB
+Progreso: 14.29%
+
+Ticker procesado: BHP
+Progreso: 14.84%
+
+Ticker procesado: BIDU
+Progreso: 15.38%
+
+Ticker procesado: BIO
+Progreso: 15.93%
+
+Ticker procesado: BKNG
+Progreso: 16.48%
+
+Ticker procesado: BLDR
+Progreso: 17.03%
+
+Ticker procesado: BMY
+Progreso: 17.58%
+
+Ticker procesado: BP
+Progreso: 18.13%
+
+Ticker procesado: BSY
+Progreso: 18.68%
+
+Ticker procesado: BYD
+Progreso: 19.23%
+
+Ticker procesado: CCEP
+Progreso: 19.78%
+
+Ticker procesado: CEPU
+Progreso: 20.33%
+
+Ticker procesado: CINF
+Progreso: 20.88%
+
+Ticker procesado: CLX
+Progreso: 21.43%
+
+Ticker procesado: CMA
+Progreso: 21.98%
+
+Ticker procesado: CME
+Progreso: 22.53%
+
+Ticker procesado: COST
+Progreso: 23.08%
+
+Ticker procesado: CRM
+Progreso: 23.63%
+
+Ticker procesado: CSCO
+Progreso: 24.18%
+
+Ticker procesado: CVNA
+Progreso: 24.73%
+
+Ticker procesado: CVX
+Progreso: 25.27%
+
+Ticker procesado: DD
+Progreso: 25.82%
+
+Ticker procesado: DIA
+Progreso: 26.37%
+
+Ticker procesado: DIS
+Progreso: 26.92%
+
+Ticker procesado: DKS
+Progreso: 27.47%
+
+Ticker procesado: DOX
+Progreso: 28.02%
+
+Ticker procesado: DRI
+Progreso: 28.57%
+
+Ticker procesado: DXCM
+Progreso: 29.12%
+
+Ticker procesado: EC
+Progreso: 29.67%
+
+Ticker procesado: EGO
+Progreso: 30.22%
+
+Ticker procesado: EPD
+Progreso: 30.77%
+
+Ticker procesado: ERJ
+Progreso: 31.32%
+
+Ticker procesado: ETNB
+Progreso: 31.87%
+
+Ticker procesado: ETSY
+Progreso: 32.42%
+
+Ticker procesado: EWZ
+Progreso: 32.97%
+
+Ticker procesado: F
+Progreso: 33.52%
+
+Ticker procesado: FILL
+Progreso: 34.07%
+
+Ticker procesado: FSLR
+Progreso: 34.62%
+
+Ticker procesado: FSLY
+Progreso: 35.16%
+
+Ticker procesado: GDX
+Progreso: 35.71%
+
+Ticker procesado: GE
+Progreso: 36.26%
+
+Ticker procesado: GGAL
+Progreso: 36.81%
+
+Ticker procesado: GIB
+Progreso: 37.36%
+
+Ticker procesado: GLD
+Progreso: 37.91%
+
+Ticker procesado: GM
+Progreso: 38.46%
+
+Ticker procesado: GOOGL
+Progreso: 39.01%
+
+Ticker procesado: GPK
+Progreso: 39.56%
+
+Ticker procesado: HD
+Progreso: 40.11%
+
+Ticker procesado: HMC
+Progreso: 40.66%
+
+Ticker procesado: HSY
+Progreso: 41.21%
+
+Ticker procesado: IBM
+Progreso: 41.76%
+
+Ticker procesado: IMGN
+Progreso: 42.31%
+
+Ticker procesado: INTC
+Progreso: 42.86%
+
+Ticker procesado: IOT
+Progreso: 43.41%
+
+Ticker procesado: IT
+Progreso: 43.96%
+
+Ticker procesado: JBL
+Progreso: 44.51%
+
+Ticker procesado: JD
+Progreso: 45.05%
+
+Ticker procesado: K
+Progreso: 45.60%
+
+Ticker procesado: KBR
+Progreso: 46.15%
+
+Ticker procesado: KLAC
+Progreso: 46.70%
+
+Ticker procesado: KO
+Progreso: 47.25%
+
+Ticker procesado: LABU
+Progreso: 47.80%
+
+Ticker procesado: LFUS
+Progreso: 48.35%
+
+Ticker procesado: LIN
+Progreso: 48.90%
+
+Ticker procesado: LIN
+Progreso: 49.45%
+
+Ticker procesado: LLY
+Progreso: 50.00%
+
+Ticker procesado: LMT
+Progreso: 50.55%
+
+Ticker procesado: LNW
+Progreso: 51.10%
+
+Ticker procesado: LRCX
+Progreso: 51.65%
+
+Ticker procesado: LTHM
+Progreso: 52.20%
+
+Ticker procesado: MCD
+Progreso: 52.75%
+
+Ticker procesado: MELI
+Progreso: 53.30%
+
+Ticker procesado: META
+Progreso: 53.85%
+
+Ticker procesado: MO
+Progreso: 54.40%
+
+Ticker procesado: MOS
+Progreso: 54.95%
+
+Ticker procesado: MRK
+Progreso: 55.49%
+
+Ticker procesado: MSFT
+Progreso: 56.04%
+
+Ticker procesado: MSI
+Progreso: 56.59%
+
+Ticker procesado: MSTR
+Progreso: 57.14%
+
+Ticker procesado: MU
+Progreso: 57.69%
+
+Ticker procesado: NFLX
+Progreso: 58.24%
+
+Ticker procesado: NGG
+Progreso: 58.79%
+
+Ticker procesado: NIO
+Progreso: 59.34%
+
+Ticker procesado: NKE
+Progreso: 59.89%
+
+Ticker procesado: NOK
+Progreso: 60.44%
+
+Ticker procesado: NOW
+Progreso: 60.99%
+
+Ticker procesado: NSC
+Progreso: 61.54%
+
+Ticker procesado: NU
+Progreso: 62.09%
+
+Ticker procesado: NVDA
+Progreso: 62.64%
+
+Ticker procesado: ON
+Progreso: 63.19%
+
+Ticker procesado: ORAN
+Progreso: 63.74%
+
+Ticker procesado: OXY
+Progreso: 64.29%
+
+Ticker procesado: PAM
+Progreso: 64.84%
+
+Ticker procesado: PBR
+Progreso: 65.38%
+
+Ticker procesado: PEP
+Progreso: 65.93%
+
+Ticker procesado: PFE
+Progreso: 66.48%
+
+Ticker procesado: PG
+Progreso: 67.03%
+
+Ticker procesado: PHG
+Progreso: 67.58%
+
+Ticker procesado: PKX
+Progreso: 68.13%
+
+Ticker procesado: PLTR
+Progreso: 68.68%
+
+Ticker procesado: PWR
+Progreso: 69.23%
+
+Ticker procesado: PWR
+Progreso: 69.78%
+
+Ticker procesado: PYPL
+Progreso: 70.33%
+
+Ticker procesado: QCOM
+Progreso: 70.88%
+
+Ticker procesado: QQQ
+Progreso: 71.43%
+
+Ticker procesado: RACE
+Progreso: 71.98%
+
+Ticker procesado: RIO
+Progreso: 72.53%
+
+Ticker procesado: ROKU
+Progreso: 73.08%
+
+Ticker procesado: ROL
+Progreso: 73.63%
+
+Ticker procesado: RTX
+Progreso: 74.18%
+
+Ticker procesado: SBUX
+Progreso: 74.73%
+
+Ticker procesado: SE
+Progreso: 75.27%
+
+Ticker procesado: SHOP
+Progreso: 75.82%
+
+Ticker procesado: SMCI
+Progreso: 76.37%
+
+Ticker procesado: SNA
+Progreso: 76.92%
+
+Ticker procesado: SNAP
+Progreso: 77.47%
+
+Ticker procesado: SNPS
+Progreso: 78.02%
+
+Ticker procesado: SOFI
+Progreso: 78.57%
+
+Ticker procesado: SOUN
+Progreso: 79.12%
+
+Ticker procesado: SPOT
+Progreso: 79.67%
+
+Ticker procesado: SPY
+Progreso: 80.22%
+
+Ticker procesado: SQM
+Progreso: 80.77%
+
+Ticker procesado: SXI
+Progreso: 81.32%
+
+Ticker procesado: T
+Progreso: 81.87%
+
+Ticker procesado: TECH
+Progreso: 82.42%
+
+Ticker procesado: TEF
+Progreso: 82.97%
+
+Ticker procesado: TGLS
+Progreso: 83.52%
+
+Ticker procesado: THC
+Progreso: 84.07%
+
+Ticker procesado: TM
+Progreso: 84.62%
+
+Ticker procesado: TMDX
+Progreso: 85.16%
+
+Ticker procesado: TME
+Progreso: 85.71%
+
+Ticker procesado: TMO
+Progreso: 86.26%
+
+Ticker procesado: TPL
+Progreso: 86.81%
+
+Ticker procesado: TRI
+Progreso: 87.36%
+
+Ticker procesado: TS
+Progreso: 87.91%
+
+Ticker procesado: TSLA
+Progreso: 88.46%
+
+Ticker procesado: TSM
+Progreso: 89.01%
+
+Ticker procesado: TXN
+Progreso: 89.56%
+
+Ticker procesado: UL
+Progreso: 90.11%
+
+Ticker procesado: UNP
+Progreso: 90.66%
+
+Ticker procesado: USB
+Progreso: 91.21%
+
+Ticker procesado: VIS
+Progreso: 91.76%
+
+Ticker procesado: VIST
+Progreso: 92.31%
+
+Ticker procesado: VRSK
+Progreso: 92.86%
+
+Ticker procesado: VRSK
+Progreso: 93.41%
+
+Ticker procesado: VZ
+Progreso: 93.96%
+
+Ticker procesado: WBA
+Progreso: 94.51%
+
+Ticker procesado: WEC
+Progreso: 95.05%
+
+Ticker procesado: WMT
+Progreso: 95.60%
+
+Ticker procesado: WTI
+Progreso: 96.15%
+
+Ticker procesado: XLE
+Progreso: 96.70%
+
+Ticker procesado: XLRE
+Progreso: 97.25%
+
+Ticker procesado: XOM
+Progreso: 97.80%
+
+Ticker procesado: XRAY
+Progreso: 98.35%
+
+Ticker procesado: YPF
+Progreso: 98.90%
+
+Ticker procesado: ZBH
+Progreso: 99.45%
+
+Ticker procesado: ZM
+Progreso: 100.00%
+
+=== Actualización de cotizaciones ===
+Fecha y hora: 2023-05-25 20:12:39
+
+Ticker procesado: AAL
+
+Ticker procesado: AAON
+
+Ticker procesado: AAPL
+
+Ticker procesado: ABBV
+
+Ticker procesado: ABC
+
+Ticker procesado: ABEV
+
+Ticker procesado: ABNB
+
+Ticker procesado: ACN
+
+Ticker procesado: AEM
+
+Ticker procesado: AI
+
+Ticker procesado: AKAM
+
+Ticker procesado: ALB
+
+Ticker procesado: ALC
+
+Ticker procesado: AMAT
+
+Ticker procesado: AMD
+
+Ticker procesado: AMGN
+
+Ticker procesado: AMX
+
+Ticker procesado: AMZN
+
+Ticker procesado: ARES
+
+Ticker procesado: ARKK
+
+Ticker procesado: ASML
+
+Ticker procesado: AVGO
+
+Ticker procesado: AXP
+
+Ticker procesado: BABA
+
+Ticker procesado: BAC
+
+Ticker procesado: BB
+
+Ticker procesado: BHP
+
+Ticker procesado: BIDU
+
+Ticker procesado: BIO
+
+Ticker procesado: BKNG
+
+Ticker procesado: BLDR
+
+Ticker procesado: BMY
+
+Ticker procesado: BP
+
+Ticker procesado: BSY
+
+Ticker procesado: BYD
+
+Ticker procesado: CCEP
+
+Ticker procesado: CEPU
+
+Ticker procesado: CINF
+
+Ticker procesado: CLX
+
+Ticker procesado: CMA
+
+Ticker procesado: CME
+
+Ticker procesado: COST
+
+Ticker procesado: CRM
+
+Ticker procesado: CSCO
+
+Ticker procesado: CVNA
+
+Ticker procesado: CVX
+
+Ticker procesado: DD
+
+Ticker procesado: DIA
+
+Ticker procesado: DIS
+
+Ticker procesado: DKS
+
+Ticker procesado: DOX
+
+Ticker procesado: DRI
+
+Ticker procesado: DXCM
+
+Ticker procesado: EC
+
+Ticker procesado: EGO
+
+Ticker procesado: EPD
+
+Ticker procesado: ERJ
+
+Ticker procesado: ETNB
+
+Ticker procesado: ETSY
+
+Ticker procesado: EWZ
+
+Ticker procesado: F
+
+Ticker procesado: FILL
+
+Ticker procesado: FSLR
+
+Ticker procesado: FSLY
+
+Ticker procesado: GDX
+
+Ticker procesado: GE
+
+Ticker procesado: GGAL
+
+Ticker procesado: GIB
+
+Ticker procesado: GLD
+
+Ticker procesado: GM
+
+Ticker procesado: GOOGL
+
+Ticker procesado: GPK
+
+Ticker procesado: HD
+
+Ticker procesado: HMC
+
+Ticker procesado: HSY
+
+Ticker procesado: IBM
+
+Ticker procesado: IMGN
+
+Ticker procesado: INTC
+
+Ticker procesado: IOT
+
+Ticker procesado: IT
+
+Ticker procesado: JBL
+
+Ticker procesado: JD
+
+Ticker procesado: K
+
+Ticker procesado: KBR
+
+Ticker procesado: KLAC
+
+Ticker procesado: KO
+
+Ticker procesado: LABU
+
+Ticker procesado: LFUS
+
+Ticker procesado: LIN
+
+Ticker procesado: LIN
+
+Ticker procesado: LLY
+
+Ticker procesado: LMT
+
+Ticker procesado: LNW
+
+Ticker procesado: LRCX
+
+Ticker procesado: LTHM
+
+Ticker procesado: MCD
+
+Ticker procesado: MELI
+
+Ticker procesado: META
+
+Ticker procesado: MO
+
+Ticker procesado: MOS
+
+Ticker procesado: MRK
+
+Ticker procesado: MSFT
+
+Ticker procesado: MSI
+
+Ticker procesado: MSTR
+
+Ticker procesado: MU
+
+Ticker procesado: NFLX
+
+Ticker procesado: NGG
+
+Ticker procesado: NIO
+
+Ticker procesado: NKE
+
+Ticker procesado: NOK
+
+Ticker procesado: NOW
+
+Ticker procesado: NSC
+
+Ticker procesado: NU
+
+Ticker procesado: NVDA
+
+Ticker procesado: ON
+
+Ticker procesado: ORAN
+
+Ticker procesado: OXY
+
+Ticker procesado: PAM
+
+Ticker procesado: PBR
+
+Ticker procesado: PEP
+
+Ticker procesado: PFE
+
+Ticker procesado: PG
+
+Ticker procesado: PHG
+
+Ticker procesado: PKX
+
+Ticker procesado: PLTR
+
+Ticker procesado: PWR
+
+Ticker procesado: PWR
+
+Ticker procesado: PYPL
+
+Ticker procesado: QCOM
+
+Ticker procesado: QQQ
+
+Ticker procesado: RACE
+
+Ticker procesado: RIO
+
+Ticker procesado: ROKU
+
+Ticker procesado: ROL
+
+Ticker procesado: RTX
+
+Ticker procesado: SBUX
+
+Ticker procesado: SE
+
+Ticker procesado: SHOP
+
+Ticker procesado: SMCI
+
+Ticker procesado: SNA
+
+Ticker procesado: SNAP
+
+Ticker procesado: SNPS
+
+Ticker procesado: SOFI
+
+Ticker procesado: SOUN
+
+Ticker procesado: SPOT
+
+Ticker procesado: SPY
+
+Ticker procesado: SQM
+
+Ticker procesado: SXI
+
+Ticker procesado: T
+
+Ticker procesado: TECH
+
+Ticker procesado: TEF
+
+Ticker procesado: TGLS
+
+Ticker procesado: THC
+
+Ticker procesado: TM
+
+Ticker procesado: TMDX
+
+Ticker procesado: TME
+
+Ticker procesado: TMO
+
+Ticker procesado: TPL
+
+Ticker procesado: TRI
+
+Ticker procesado: TS
+
+Ticker procesado: TSLA
+
+Ticker procesado: TSM
+
+Ticker procesado: TXN
+
+Ticker procesado: UL
+
+Ticker procesado: UNP
+
+Ticker procesado: USB
+
+Ticker procesado: VIS
+
+Ticker procesado: VIST
+
+Ticker procesado: VRSK
+
+Ticker procesado: VRSK
+
+Ticker procesado: VZ
+
+Ticker procesado: WBA
+
+Ticker procesado: WEC
+
+Ticker procesado: WMT
+
+Ticker procesado: WTI
+
+Ticker procesado: XLE
+
+Ticker procesado: XLRE
+
+Ticker procesado: XOM
+
+Ticker procesado: XRAY
+
+Ticker procesado: YPF
+
+Ticker procesado: ZBH
+
+Ticker procesado: ZM
+
+=== Actualización de cotizaciones ===
+Fecha y hora: 2023-05-25 20:14:23
+
+Ticker procesado: AAL
+
+Ticker procesado: AAON
+
+Ticker procesado: AAPL
+
+Ticker procesado: ABBV
+
+Ticker procesado: ABC
+
+Ticker procesado: ABEV
+
+Ticker procesado: ABNB
+
+Ticker procesado: ACN
+
+Ticker procesado: AEM
+
+Ticker procesado: AI
+
+Ticker procesado: AKAM
+
+Ticker procesado: ALB
+
+Ticker procesado: ALC
+
+Ticker procesado: AMAT
+
+Ticker procesado: AMD
+
+Ticker procesado: AMGN
+
+Ticker procesado: AMX
+
+Ticker procesado: AMZN
+
+Ticker procesado: ARES
+
+Ticker procesado: ARKK
+
+Ticker procesado: ASML
+
+Ticker procesado: AVGO
+
+Ticker procesado: AXP
+
+Ticker procesado: BABA
+
+Ticker procesado: BAC
+
+Ticker procesado: BB
+
+Ticker procesado: BHP
+
+Ticker procesado: BIDU
+
+Ticker procesado: BIO
+
+Ticker procesado: BKNG
+
+Ticker procesado: BLDR
+
+Ticker procesado: BMY
+
+Ticker procesado: BP
+
+Ticker procesado: BSY
+
+Ticker procesado: BYD
+
+Ticker procesado: CCEP
+
+Ticker procesado: CEPU
+
+Ticker procesado: CINF
+
+Ticker procesado: CLX
+
+Ticker procesado: CMA
+
+Ticker procesado: CME
+
+Ticker procesado: COST
+
+Ticker procesado: CRM
+
+Ticker procesado: CSCO
+
+Ticker procesado: CVNA
+
+Ticker procesado: CVX
+
+Ticker procesado: DD
+
+Ticker procesado: DIA
+
+Ticker procesado: DIS
+
+Ticker procesado: DKS
+
+Ticker procesado: DOX
+
+Ticker procesado: DRI
+
+Ticker procesado: DXCM
+
+Ticker procesado: EC
+
+Ticker procesado: EGO
+
+Ticker procesado: EPD
+
+Ticker procesado: ERJ
+
+Ticker procesado: ETNB
+
+Ticker procesado: ETSY
+
+Ticker procesado: EWZ
+
+Ticker procesado: F
+
+Ticker procesado: FILL
+
+Ticker procesado: FSLR
+
+Ticker procesado: FSLY
+
+Ticker procesado: GDX
+
+Ticker procesado: GE
+
+Ticker procesado: GGAL
+
+Ticker procesado: GIB
+
+Ticker procesado: GLD
+
+Ticker procesado: GM
+
+Ticker procesado: GOOGL
+
+Ticker procesado: GPK
+
+Ticker procesado: HD
+
+Ticker procesado: HMC
+
+Ticker procesado: HSY
+
+Ticker procesado: IBM
+
+Ticker procesado: IMGN
+
+Ticker procesado: INTC
+
+Ticker procesado: IOT
+
+Ticker procesado: IT
+
+Ticker procesado: JBL
+
+Ticker procesado: JD
+
+Ticker procesado: K
+
+Ticker procesado: KBR
+
+Ticker procesado: KLAC
+
+Ticker procesado: KO
+
+Ticker procesado: LABU
+
+Ticker procesado: LFUS
+
+Ticker procesado: LIN
+
+Ticker procesado: LIN
+
+Ticker procesado: LLY
+
+Ticker procesado: LMT
+
+Ticker procesado: LNW
+
+Ticker procesado: LRCX
+
+Ticker procesado: LTHM
+
+Ticker procesado: MCD
+
+Ticker procesado: MELI
+
+Ticker procesado: META
+
+Ticker procesado: MO
+
+Ticker procesado: MOS
+
+Ticker procesado: MRK
+
+Ticker procesado: MSFT
+
+Ticker procesado: MSI
+
+Ticker procesado: MSTR
+
+Ticker procesado: MU
+
+Ticker procesado: NFLX
+
+Ticker procesado: NGG
+
+Ticker procesado: NIO
+
+Ticker procesado: NKE
+
+Ticker procesado: NOK
+
+Ticker procesado: NOW
+
+Ticker procesado: NSC
+
+Ticker procesado: NU
+
+Ticker procesado: NVDA
+
+Ticker procesado: ON
+
+Ticker procesado: ORAN
+
+Ticker procesado: OXY
+
+Ticker procesado: PAM
+
+Ticker procesado: PBR
+
+Ticker procesado: PEP
+
+Ticker procesado: PFE
+
+Ticker procesado: PG
+
+Ticker procesado: PHG
+
+Ticker procesado: PKX
+
+Ticker procesado: PLTR
+
+Ticker procesado: PWR
+
+Ticker procesado: PWR
+
+Ticker procesado: PYPL
+
+Ticker procesado: QCOM
+
+Ticker procesado: QQQ
+
+Ticker procesado: RACE
+
+Ticker procesado: RIO
+
+Ticker procesado: ROKU
+
+Ticker procesado: ROL
+
+Ticker procesado: RTX
+
+Ticker procesado: SBUX
+
+Ticker procesado: SE
+
+Ticker procesado: SHOP
+
+Ticker procesado: SMCI
+
+Ticker procesado: SNA
+
+Ticker procesado: SNAP
+
+Ticker procesado: SNPS
+
+Ticker procesado: SOFI
+
+Ticker procesado: SOUN
+
+Ticker procesado: SPOT
+
+Ticker procesado: SPY
+
+Ticker procesado: SQM
+
+Ticker procesado: SXI
+
+Ticker procesado: T
+
+Ticker procesado: TECH
+
+Ticker procesado: TEF
+
+Ticker procesado: TGLS
+
+Ticker procesado: THC
+
+Ticker procesado: TM
+
+Ticker procesado: TMDX
+
+Ticker procesado: TME
+
+Ticker procesado: TMO
+
+Ticker procesado: TPL
+
+Ticker procesado: TRI
+
+Ticker procesado: TS
+
+Ticker procesado: TSLA
+
+Ticker procesado: TSM
+
+Ticker procesado: TXN
+
+Ticker procesado: UL
+
+Ticker procesado: UNP
+
+Ticker procesado: USB
+
+Ticker procesado: VIS
+
+Ticker procesado: VIST
+
+Ticker procesado: VRSK
+
+Ticker procesado: VRSK
+
+Ticker procesado: VZ
+
+Ticker procesado: WBA
+
+Ticker procesado: WEC
+
+Ticker procesado: WMT
+
+Ticker procesado: WTI
+
+Ticker procesado: XLE
+
+Ticker procesado: XLRE
+
+Ticker procesado: XOM
+
+Ticker procesado: XRAY
+
+Ticker procesado: YPF
+
+Ticker procesado: ZBH
+
+Ticker procesado: ZM
+
+=== Actualización de cotizaciones ===
+Fecha y hora: 2023-05-25 20:24:01
+
+Ticker procesado: AAL
+
+Ticker procesado: AAON
+
+Ticker procesado: AAPL
+
+Ticker procesado: ABBV
+
+Ticker procesado: ABC
+
+Ticker procesado: ABEV
+
+Ticker procesado: ABNB
+
+Ticker procesado: ACN
+
+Ticker procesado: AEM
+
+Ticker procesado: AI
+
+Ticker procesado: AKAM
+
+Ticker procesado: ALB
+
+Ticker procesado: ALC
+
+Ticker procesado: AMAT
+
+=== Actualización de cotizaciones ===
+Fecha y hora: 2023-05-25 20:24:22
+
+Ticker procesado: AAL
+
+Ticker procesado: AAON
+
+Ticker procesado: AAPL
+
+Ticker procesado: ABBV
+
+Ticker procesado: ABC
+
+Ticker procesado: ABEV
+
+Ticker procesado: ABNB
+
+Ticker procesado: ACN
+
+Ticker procesado: AEM
+
+Ticker procesado: AI
+
+Ticker procesado: AKAM
+
+Ticker procesado: ALB
+
+Ticker procesado: ALC
+
+Ticker procesado: AMAT
+
+Ticker procesado: AMD
+
+Ticker procesado: AMGN
+
+Ticker procesado: AMX
+
+Ticker procesado: AMZN
+
+Ticker procesado: ARES
+
+Ticker procesado: ARKK
+
+Ticker procesado: ASML
+
+Ticker procesado: AVGO
+
+Ticker procesado: AXP
+
+Ticker procesado: BABA
+
+Ticker procesado: BAC
+
+Ticker procesado: BB
+
+Ticker procesado: BHP
+
+Ticker procesado: BIDU
+
+Ticker procesado: BIO
+
+Ticker procesado: BKNG
+
+=== Actualización de cotizaciones ===
+Fecha y hora: 2023-05-25 20:24:57
+
+Ticker procesado: AAL
+
+Ticker procesado: AAON
+
+=== Actualización de cotizaciones ===
+Fecha y hora: 2023-05-25 20:28:45
+
+=== Actualización de cotizaciones ===
+Fecha y hora: 2023-05-25 20:30:18
+
+Ticker procesado: AAL
+
+=== Actualización de cotizaciones ===
+Fecha y hora: 2023-05-25 20:31:36
+
+=== Actualización de cotizaciones ===
+Fecha y hora: 2023-05-25 20:32:24
+
+Ticker procesado: AAL
+
+Ticker procesado: AAON
+
+Ticker procesado: AAPL
+
+Ticker procesado: ABBV
+
+=== Actualización de cotizaciones ===
+Fecha y hora: 2023-05-25 20:32:38
+
+Ticker procesado: AAL
+
+Ticker procesado: AAON
+
+Ticker procesado: AAPL
+
+Ticker procesado: ABBV
+
+Ticker procesado: ABC
+
+Ticker procesado: ABEV
+
+Ticker procesado: ABNB
+
+Ticker procesado: ACN
+
+Ticker procesado: AEM
+
+Ticker procesado: AI
+
+Ticker procesado: AKAM
+
+Ticker procesado: ALB
+
+Ticker procesado: ALC
+
+Ticker procesado: AMAT
+
+Ticker procesado: AMD
+
+=== Actualización de cotizaciones ===
+Fecha y hora: 2023-05-25 20:34:58
+
+Ticker procesado: AAL
+
+Ticker procesado: AAON
+
+Ticker procesado: AAPL
+
+Ticker procesado: ABBV
+
+Ticker procesado: ABC
+
+Ticker procesado: ABEV
+
+Ticker procesado: ABNB
+
+Ticker procesado: ACN
+
+Ticker procesado: AEM
+
+Ticker procesado: AI
+
+Ticker procesado: AKAM
+
+Ticker procesado: ALB
+
+Ticker procesado: ALC
+
+Ticker procesado: AMAT
+
+Ticker procesado: AMD
+
+Ticker procesado: AMGN
+
+Ticker procesado: AMX
+
+Ticker procesado: AMZN
+
+Ticker procesado: ARES
+
+Ticker procesado: ARKK
+
+Ticker procesado: ASML
+
+Ticker procesado: AVGO
+
+Ticker procesado: AXP
+
+Ticker procesado: BABA
+
+Ticker procesado: BAC
+
+Ticker procesado: BB
+
+Ticker procesado: BHP
+
+Ticker procesado: BIDU
+
+Ticker procesado: BIO
+
+Ticker procesado: BKNG
+
+Ticker procesado: BLDR
+
+Ticker procesado: BMY
+
+Ticker procesado: BP
+
+Ticker procesado: BSY
+
+Ticker procesado: BYD
+
+Ticker procesado: CCEP
+
+Ticker procesado: CEPU
+
+=== Actualización de cotizaciones ===
+Fecha y hora: 2023-05-25 20:35:29
+
+Ticker procesado: AAL
+
+Ticker procesado: AAON
+
+Ticker procesado: AAPL
+
+Ticker procesado: ABBV
+
+=== Actualización de cotizaciones ===
+Fecha y hora: 2023-05-25 20:37:04
+
+=== Actualización de cotizaciones ===
+Fecha y hora: 2023-05-25 20:37:20
+
+Ticker procesado: AAL
+
+Ticker procesado: AAON
+
+=== Actualización de cotizaciones ===
+Fecha y hora: 2023-05-25 20:38:30
+
+Ticker procesado: AAL
+
+=== Actualización de cotizaciones ===
+Fecha y hora: 2023-05-25 20:39:55
+
+Ticker procesado: AAL
+
+Datos actualizados para el ticker: AAL
+Datos actualizados para el ticker: AAON
+Datos actualizados para el ticker: AAPL
+Datos actualizados para el ticker: ABBV
+Datos actualizados para el ticker: ABC
+Datos actualizados para el ticker: ABEV
+Datos actualizados para el ticker: ABNB
+Datos actualizados para el ticker: ACN
+Datos actualizados para el ticker: AEM
+Datos actualizados para el ticker: AI
+Datos actualizados para el ticker: AKAM
+Datos actualizados para el ticker: ALB
+Datos actualizados para el ticker: ALC
+Datos actualizados para el ticker: AMAT
+Datos actualizados para el ticker: AMD
+Datos actualizados para el ticker: AMGN
+Datos actualizados para el ticker: AMX
+Datos actualizados para el ticker: AMZN
+Datos actualizados para el ticker: ARES
+Datos actualizados para el ticker: ARKK
+Datos actualizados para el ticker: ASML
+Datos actualizados para el ticker: AVGO
+Datos actualizados para el ticker: AXP
+Datos actualizados para el ticker: BABA
+Datos actualizados para el ticker: BAC
+Datos actualizados para el ticker: BHP
+Datos actualizados para el ticker: BIDU
+Datos actualizados para el ticker: BIO
+Datos actualizados para el ticker: BKNG
+Datos actualizados para el ticker: BLDR
+Datos actualizados para el ticker: BMY
+Datos actualizados para el ticker: BP
+Datos actualizados para el ticker: BSY
+Datos actualizados para el ticker: BYD
+Datos actualizados para el ticker: CCEP
+Datos actualizados para el ticker: CEPU
+Datos actualizados para el ticker: CLX
+Datos actualizados para el ticker: CME
+Datos actualizados para el ticker: COST
+Datos actualizados para el ticker: CVNA
+Datos actualizados para el ticker: CVX
+Datos actualizados para el ticker: DD
+Datos actualizados para el ticker: DIA
+Datos actualizados para el ticker: DIS
+Datos actualizados para el ticker: DKS
+Datos actualizados para el ticker: DOX
+Datos actualizados para el ticker: DRI
+Datos actualizados para el ticker: DXCM
+Datos actualizados para el ticker: EC
+Datos actualizados para el ticker: EGO
+Datos actualizados para el ticker: ERJ
+Datos actualizados para el ticker: ETNB
+Datos actualizados para el ticker: ETSY
+Datos actualizados para el ticker: EWZ
+Datos actualizados para el ticker: F
+Datos actualizados para el ticker: FILL
+Datos actualizados para el ticker: FSLR
+Datos actualizados para el ticker: FSLY
+Datos actualizados para el ticker: GDX
+Datos actualizados para el ticker: GE
+Datos actualizados para el ticker: GGAL
+Datos actualizados para el ticker: GIB
+Datos actualizados para el ticker: GLD
+Datos actualizados para el ticker: GM
+Datos actualizados para el ticker: GOOGL
+Datos actualizados para el ticker: GPK
+Datos actualizados para el ticker: HD
+Datos actualizados para el ticker: HMC
+Datos actualizados para el ticker: HSY
+Datos actualizados para el ticker: IBM
+Datos actualizados para el ticker: IMGN
+Datos actualizados para el ticker: INTC
+Datos actualizados para el ticker: IOT
+Datos actualizados para el ticker: IT
+Datos actualizados para el ticker: JBL
+Datos actualizados para el ticker: JD
+Datos actualizados para el ticker: K
+Datos actualizados para el ticker: KBR
+Datos actualizados para el ticker: KLAC
+Datos actualizados para el ticker: KO
+Datos actualizados para el ticker: LABU
+Datos actualizados para el ticker: LFUS
+Datos actualizados para el ticker: LIN
+Datos actualizados para el ticker: LLY
+Datos actualizados para el ticker: LMT
+Datos actualizados para el ticker: LNW
+Datos actualizados para el ticker: LRCX
+Datos actualizados para el ticker: LTHM
+Datos actualizados para el ticker: MCD
+Datos actualizados para el ticker: MELI
+Datos actualizados para el ticker: META
+Datos actualizados para el ticker: MO
+Datos actualizados para el ticker: MOS
+Datos actualizados para el ticker: MRK
+Datos actualizados para el ticker: MSFT
+Datos actualizados para el ticker: MSI
+Datos actualizados para el ticker: MSTR
+Datos actualizados para el ticker: MU
+Datos actualizados para el ticker: NFLX
+Datos actualizados para el ticker: NGG
+Datos actualizados para el ticker: NIO
+Datos actualizados para el ticker: NKE
+Datos actualizados para el ticker: NOK
+Datos actualizados para el ticker: NOW
+Datos actualizados para el ticker: NSC
+Datos actualizados para el ticker: NU
+Datos actualizados para el ticker: NVDA
+Datos actualizados para el ticker: ON
+Datos actualizados para el ticker: ORAN
+Datos actualizados para el ticker: OXY
+Datos actualizados para el ticker: PAM
+Datos actualizados para el ticker: PBR
+Datos actualizados para el ticker: PEP
+Datos actualizados para el ticker: PFE
+Datos actualizados para el ticker: PG
+Datos actualizados para el ticker: PHG
+Datos actualizados para el ticker: PKX
+Datos actualizados para el ticker: PLTR
+Datos actualizados para el ticker: PWR
+Datos actualizados para el ticker: PYPL
+Datos actualizados para el ticker: QCOM
+Datos actualizados para el ticker: QQQ
+Datos actualizados para el ticker: RACE
+Datos actualizados para el ticker: RIO
+Datos actualizados para el ticker: ROKU
+Datos actualizados para el ticker: ROL
+Datos actualizados para el ticker: RTX
+Datos actualizados para el ticker: SBUX
+Datos actualizados para el ticker: SE
+Datos actualizados para el ticker: SHOP
+Datos actualizados para el ticker: SMCI
+Datos actualizados para el ticker: SNPS
+Datos actualizados para el ticker: SOFI
+Datos actualizados para el ticker: SOUN
+Datos actualizados para el ticker: SPOT
+Datos actualizados para el ticker: SPY
+Datos actualizados para el ticker: SQM
+Datos actualizados para el ticker: SXI
+Datos actualizados para el ticker: T
+Datos actualizados para el ticker: TECH
+Datos actualizados para el ticker: TEF
+Datos actualizados para el ticker: TGLS
+Datos actualizados para el ticker: THC
+Datos actualizados para el ticker: TM
+Datos actualizados para el ticker: TMDX
+Datos actualizados para el ticker: TME
+Datos actualizados para el ticker: TRI
+Datos actualizados para el ticker: TS
+Datos actualizados para el ticker: TSLA
+Datos actualizados para el ticker: TSM
+Datos actualizados para el ticker: TXN
+Datos actualizados para el ticker: UNP
+Datos actualizados para el ticker: USB
+Datos actualizados para el ticker: VIS
+Datos actualizados para el ticker: VIST
+Datos actualizados para el ticker: VRSK
+No se encontraron datos para el ticker: VRSK
+Datos actualizados para el ticker: VZ
+Datos actualizados para el ticker: WBA
+Datos actualizados para el ticker: WMT
+Datos actualizados para el ticker: WTI
+Datos actualizados para el ticker: XLE
+Datos actualizados para el ticker: XOM
+Datos actualizados para el ticker: XRAY
+Datos actualizados para el ticker: YPF
+Datos actualizados para el ticker: ZBH
+Datos actualizados para el ticker: ZM
+Datos actualizados para el ticker: CRM
+Datos actualizados para el ticker: CSCO
+Datos actualizados para el ticker: SNAP
+Datos actualizados para el ticker: CMA
+Datos actualizados para el ticker: TMO
+Datos actualizados para el ticker: CINF
+Datos actualizados para el ticker: SNA
+Datos actualizados para el ticker: WEC
+No se encontraron datos para el ticker: PWR
+No se encontraron datos para el ticker: LIN
+Datos actualizados para el ticker: EPD
+Datos actualizados para el ticker: BB
+Datos actualizados para el ticker: UL
+Datos actualizados para el ticker: TPL
+Datos actualizados para el ticker: XLRE
+Cotizaciones actualizadas
+[2023-05-25 23:23:46] No se encontraron datos para el ticker: AAL
+[2023-05-25 23:23:47] No se encontraron datos para el ticker: AAON
+[2023-05-25 23:23:47] No se encontraron datos para el ticker: AAPL
+[2023-05-25 23:23:47] No se encontraron datos para el ticker: ABBV
+[2023-05-25 23:23:47] No se encontraron datos para el ticker: ABC
+[2023-05-25 23:23:48] No se encontraron datos para el ticker: ABEV
+[2023-05-25 23:23:48] No se encontraron datos para el ticker: ABNB
+[2023-05-25 23:23:48] No se encontraron datos para el ticker: ACN
+[2023-05-25 23:23:48] No se encontraron datos para el ticker: AEM
+[2023-05-25 23:23:48] No se encontraron datos para el ticker: AI
+[2023-05-25 23:23:49] No se encontraron datos para el ticker: AKAM
+[2023-05-25 23:25:00] No se encontraron datos para el ticker: AAL
+[2023-05-25 23:25:00] No se encontraron datos para el ticker: AAON
+[2023-05-25 23:25:01] No se encontraron datos para el ticker: AAPL
+[2023-05-25 23:25:01] No se encontraron datos para el ticker: ABBV
+[2023-05-25 23:25:01] No se encontraron datos para el ticker: ABC
+[2023-05-25 23:25:01] No se encontraron datos para el ticker: ABEV
+[2023-05-25 23:41:03] Cotizaciones actualizadas
+[2023-05-25 23:49:17] Cotizaciones actualizadas
+[2023-05-26 00:22:53] Cotizaciones actualizadas
+[2023-05-26 01:03:57] Cotizaciones actualizadas
+[2023-05-26 03:06:03] Cotizaciones actualizadas
+[2023-05-26 03:09:50] Cotizaciones actualizadas
+[2023-05-26 03:12:38] Cotizaciones actualizadas
+[2023-05-26 03:14:33] Cotizaciones actualizadas
+[2023-05-26 03:16:50] Cotizaciones actualizadas
+[2023-05-26 03:19:13] Cotizaciones actualizadas
+[2023-05-26 03:20:48] Cotizaciones actualizadas
+[2023-05-26 14:39:53] Cotizaciones actualizadas
+[2023-05-26 15:06:38] Indicadores calculados
+[2023-05-26 15:08:41] Indicadores calculados
+[2023-05-26 15:14:21] Tickers Actualizados
+[2023-05-26 15:14:47] Tickers Actualizados
+[2023-05-26 15:16:40] Tickers Actualizados
+[2023-05-26 15:17:03] Tickers Actualizados
+[2023-05-26 15:19:33] Tickers Actualizados
+[2023-05-26 15:20:18] Tickers Actualizados
+[2023-05-26 15:20:49] Tickers Actualizados
+[2023-05-26 15:20:55] Tickers Actualizados
+[2023-05-26 15:35:51] Indicadores calculados
+[2023-05-26 15:37:00] Indicadores calculados
+[2023-05-26 16:35:23] Tickers Actualizados
+[2023-05-26 16:36:38] Cotizaciones actualizadas
+[2023-05-26 16:45:18] Tickers Actualizados
+[2023-05-26 16:46:31] Cotizaciones actualizadas
+[2023-05-26 16:51:03] Indicadores calculados
+[2023-05-26 17:16:57] Tickers Actualizados
+[2023-05-26 17:18:59] Cotizaciones actualizadas
+[2023-05-26 17:19:33] Indicadores calculados
+[2023-05-26 17:24:45] Tickers Actualizados
+[2023-05-26 17:28:26] Tickers Actualizados
+[2023-05-26 17:30:15] Tickers Actualizados
+[2023-05-26 17:32:14] Tickers Actualizados
+[2023-05-26 17:35:02] Cotizaciones actualizadas
+[2023-05-26 17:50:06] Tickers Actualizados
+[2023-05-26 17:51:22] Tickers Actualizados
+[2023-05-26 17:53:33] Tickers Actualizados
+[2023-05-26 18:47:45] Tickers Actualizados
+[2023-05-26 18:52:38] Cotizaciones actualizadas
+[2023-05-26 19:01:05] Cotizaciones actualizadas
+[2023-05-26 19:01:51] Indicadores calculados
+[2023-05-26 20:32:25] Cotizaciones actualizadas
+[2023-05-26 20:43:33] Cotizaciones actualizadas
+[2023-05-26 20:45:15] Tickers Actualizados
+[2023-05-26 20:47:57] Cotizaciones actualizadas
+[2023-05-26 20:49:07] Tickers Actualizados
+[2023-05-26 20:49:32] Indicadores calculados
+[2023-05-26 21:00:38] Cotizaciones actualizadas
+[2023-05-26 21:01:45] Tickers Actualizados
+[2023-05-26 21:02:11] Tickers Actualizados
+[2023-05-26 21:03:52] Cotizaciones actualizadas
+[2023-05-26 21:42:32] Tickers Actualizados
+[2023-05-26 21:48:27] Tickers Actualizados
+[2023-05-26 21:51:51] Cotizaciones actualizadas
+[2023-05-26 21:53:08] Indicadores calculados
+[2023-05-26 22:01:04] Reporte Diario
+[2023-05-26 22:01:44] Reporte Diario
+[2023-05-26 22:05:01] Tickers Actualizados
+[2023-05-26 22:06:23] Tickers Actualizados
+[2023-05-26 22:06:47] Tickers Actualizados
+[2023-05-26 22:26:32] Cotizaciones actualizadas
+[2023-05-26 22:30:35] Cotizaciones actualizadas
+[2023-05-26 22:33:03] Indicadores calculados
+[2023-05-26 22:34:49] Reporte Diario
+[2023-05-26 23:05:39] Reporte Diario
+[2023-05-26 23:05:59] Reporte Diario
+[2023-05-26 23:06:22] Reporte Diario
+[2023-05-27 00:17:02] Cotizaciones actualizadas
+[2023-05-27 00:18:49] Indicadores calculados
+[2023-05-27 00:34:53] Cotizaciones actualizadas
+[2023-05-27 00:38:28] Cotizaciones actualizadas
+[2023-05-27 00:45:27] Cotizaciones actualizadas
+[2023-05-27 01:24:54] Cotizaciones actualizadas
+[2023-05-27 01:27:42] Indicadores calculados
+[2023-05-27 01:54:29] Cotizaciones actualizadas
+[2023-05-27 03:14:39] Cotizaciones actualizadas
+[2023-05-27 03:15:05] Indicadores calculados
+[2023-05-27 04:16:10] Cotizaciones actualizadas
+[2023-05-27 04:17:16] Indicadores calculados
+[2023-05-27 04:26:45] Cotizaciones actualizadas
+[2023-05-27 04:27:46] Indicadores calculados
+[2023-05-27 04:40:12] Cotizaciones actualizadas
+[2023-05-27 04:41:06] Indicadores calculados
+[2023-05-27 05:57:57] Cotizaciones actualizadas
+[2023-05-27 05:58:26] Indicadores calculados
+[2023-05-27 10:02:27] Tickers Actualizados
+[2023-05-27 10:04:38] Cotizaciones actualizadas
+[2023-05-27 10:05:08] Indicadores calculados
+[2023-05-27 10:51:39] Tickers Actualizados
+[2023-05-27 10:54:45] Cotizaciones actualizadas
+[2023-05-27 10:56:44] Indicadores calculados
+[2023-05-27 11:23:14] Cotizaciones actualizadas
+[2023-05-27 11:23:17] Indicadores calculados
+[2023-05-27 11:24:05] Tickers Actualizados
+[2023-05-27 11:27:05] Cotizaciones actualizadas
+[2023-05-27 11:27:09] Indicadores calculados
+[2023-05-27 13:22:08] Cotizaciones actualizadas
+[2023-05-27 14:56:11] Indicadores calculados
+[2023-05-30 20:12:04] Tickers Actualizados
+[2023-05-30 20:15:07] Cotizaciones actualizadas
+[2023-05-30 20:16:34] Indicadores calculados
+[2023-05-30 20:40:33] Tickers Actualizados
+[2023-05-30 20:43:55] Cotizaciones actualizadas
+[2023-05-30 20:43:59] Indicadores calculados
+[2023-05-30 20:48:46] Tickers Actualizados
+[2023-05-30 20:51:53] Cotizaciones actualizadas
+[2023-05-30 20:52:02] Indicadores calculados
+[2023-05-30 21:14:28] Reporte Diario
+[2023-05-30 21:17:17] Reporte Diario2
+[2023-05-31 08:34:25] Tickers Actualizados
+[2023-05-31 08:38:25] Cotizaciones actualizadas
+[2023-05-31 08:38:27] Indicadores calculados
+[2023-06-01 08:53:53] Cotizaciones actualizadas
+[2023-06-01 08:54:07] Indicadores calculados
+[2023-06-01 19:28:10] Cotizaciones actualizadas
+[2023-06-01 22:37:17] Cotizaciones actualizadas
+[2023-06-01 22:55:18] Tickers Actualizados
+[2023-06-01 23:03:20] Tickers Actualizados
+[2023-06-01 23:04:43] Cotizaciones actualizadas
+[2023-06-01 23:04:52] Indicadores calculados
+[2023-06-01 23:11:01] Tickers Actualizados
+[2023-06-01 23:12:16] Cotizaciones actualizadas
+[2023-06-01 23:12:17] Indicadores calculados
+[2023-06-01 23:56:49] Cotizaciones actualizadas
+[2023-06-01 23:57:41] Reporte Diario
+[2023-06-02 00:09:10] Cotizaciones actualizadas
+[2023-06-02 00:09:25] Indicadores calculados
+[2023-06-03 00:07:12] Cotizaciones actualizadas
+[2023-06-03 00:07:26] Indicadores calculados
+[2023-06-05 18:32:35] Tickers Actualizados
+[2023-06-05 18:34:01] Cotizaciones actualizadas
+[2023-06-05 19:45:49] Indicadores calculados
+[2023-06-06 01:16:43] Tickers Actualizados
+[2023-06-06 01:17:59] Cotizaciones actualizadas
+[2023-06-06 01:18:07] Indicadores calculados
+[2023-06-07 00:15:44] Cotizaciones actualizadas
+[2023-06-07 00:16:12] Indicadores calculados
+[2023-06-08 00:07:35] Cotizaciones actualizadas
+[2023-06-08 00:09:44] Indicadores calculados
+[2023-06-09 00:08:50] Tickers Actualizados
+[2023-06-09 00:10:09] Cotizaciones actualizadas
+[2023-06-09 00:11:44] Indicadores calculados
+[2023-06-09 00:12:47] Indicadores calculados
+[2023-06-11 18:15:09] Cotizaciones actualizadas
+[2023-06-11 18:15:27] Indicadores calculados
+[2023-06-13 01:03:35] Cotizaciones actualizadas
+[2023-06-13 01:03:37] Indicadores calculados
+[2023-06-13 01:04:13] Tickers Actualizados
+[2023-06-13 22:24:42] Tickers Actualizados
+[2023-06-13 22:26:49] Cotizaciones actualizadas
+[2023-06-13 22:27:37] Indicadores calculados
+[2023-06-14 00:10:06] Tickers Actualizados
+[2023-06-14 00:10:45] Tickers Actualizados
+[2023-06-14 00:11:32] Cotizaciones actualizadas
+[2023-06-14 00:11:34] Indicadores calculados
+[2023-06-14 19:01:04] Tickers Actualizados
+[2023-06-14 19:07:18] Cotizaciones actualizadas
+[2023-06-14 19:07:34] Indicadores calculados
+[2023-06-15 03:59:58] Tickers Actualizados
+[2023-06-15 04:03:07] Cotizaciones actualizadas
+[2023-06-15 04:03:12] Indicadores calculados
+[2023-06-16 01:18:59] Cotizaciones actualizadas
+[2023-06-16 01:19:38] Indicadores calculados
+[2023-06-16 01:49:16] Tickers Actualizados
+[2023-06-16 01:53:00] Cotizaciones actualizadas
+[2023-06-16 01:53:22] Indicadores calculados
+[2023-06-16 02:03:28] Cotizaciones actualizadas
+[2023-06-16 02:03:32] Indicadores calculados
+[2023-06-17 00:58:05] Cotizaciones actualizadas
+[2023-06-17 00:58:09] Indicadores calculados
+[2023-06-20 23:19:51] Tickers Actualizados
+[2023-06-20 23:23:12] Cotizaciones actualizadas
+[2023-06-20 23:24:18] Indicadores calculados
+[2023-06-20 23:57:23] Tickers Actualizados
+[2023-06-21 00:00:32] Cotizaciones actualizadas
+[2023-06-21 00:00:38] Tickers Actualizados
+[2023-06-21 00:03:57] Cotizaciones actualizadas
+[2023-06-21 00:04:53] Indicadores calculados
+[2023-06-21 20:37:12] Tickers Actualizados
+[2023-06-21 20:37:15] Indicadores calculados
+[2023-06-22 01:12:48] Cotizaciones actualizadas
+[2023-06-22 01:18:17] Indicadores calculados
+[2023-06-23 00:11:31] Cotizaciones actualizadas
+[2023-06-23 00:13:14] Indicadores calculados
+[2023-06-24 00:00:47] Tickers Actualizados
+[2023-06-24 00:05:22] Cotizaciones actualizadas
+[2023-06-24 00:05:25] Indicadores calculados
+[2023-06-27 00:25:36] Cotizaciones actualizadas
+[2023-06-27 00:25:41] Indicadores calculados
+[2023-06-28 00:29:03] Cotizaciones actualizadas
+[2023-06-28 00:34:39] Indicadores calculados
+[2023-06-29 00:24:56] Cotizaciones actualizadas
+[2023-06-29 00:25:32] Indicadores calculados
+[2023-06-30 00:04:11] Cotizaciones actualizadas
+[2023-06-30 00:05:17] Indicadores calculados
+[2023-07-04 19:23:22] Tickers Actualizados
+[2023-07-04 19:26:40] Cotizaciones actualizadas
+[2023-07-04 20:42:13] Indicadores calculados
+[2023-08-10 23:13:56] Tickers Actualizados
+[2023-08-10 23:17:22] Cotizaciones actualizadas
+[2023-08-10 23:17:31] Indicadores calculados
+[2023-08-10 23:29:30] Cotizaciones actualizadas
