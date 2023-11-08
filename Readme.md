@@ -4,6 +4,7 @@
 
  "Ta-Lib" (Technical Analysis Library)
  Es complicada de instalar, solo con anaconda no tuve problemas.
+ES necesario que sea python 3.10.x pero menor de pythjon 3.11
 
 ## Para vaciar los datos de las tablas
 

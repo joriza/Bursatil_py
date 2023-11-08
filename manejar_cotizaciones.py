@@ -25,7 +25,7 @@ def actualizar_cotizaciones():
             start_date = last_date
         else:
             # start_date = "2023-02-01" # Fecha mas antigua de carga inicial de informacion
-            start_date = datetime.date.today() - datetime.timedelta(days=45)
+            start_date = datetime.date.today() - datetime.timedelta(days=60)
 
         end_date = time.strftime("%Y-%m-%d")
         # datenow = datetime.date.today()
