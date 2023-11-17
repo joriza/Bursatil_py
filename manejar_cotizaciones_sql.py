@@ -27,7 +27,7 @@ def actualizar_cotizaciones():
         if last_date:
             start_date = last_date
         else:
-            start_date = datetime.date.today() - datetime.timedelta(days=90)
+            start_date = datetime.date.today() - datetime.timedelta(days=60)
 
         end_date = datetime.date.today().strftime("%Y-%m-%d")
 

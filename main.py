@@ -31,7 +31,7 @@ def main():
 
         if opcion == "1":
             limpiar_pantalla()
-            crear_tabla_cotizaciones()
+            ##crear_tabla_cotizaciones()
             actualizar_cotizaciones()
             guardar_log("Cotizaciones actualizadas")
 
